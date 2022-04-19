@@ -1,0 +1,8 @@
+{
+  "name": "Firma",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b461fe61"
+}
